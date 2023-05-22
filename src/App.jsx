@@ -12,7 +12,7 @@ function App() {
   return (
     <>
     <div className='img1'>
-    <img className='img0' src="./src/assets/logo.png" alt="" />
+    <img className='img0' src="/logo.png" alt="" />
     <Random></Random>
     </div>
 
